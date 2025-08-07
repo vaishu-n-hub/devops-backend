@@ -25,12 +25,12 @@
    		<sonar.language>java</sonar.language>
 	</properties>
 	
-<!--     <distributionManagement>
+    <distributionManagement>
         <repository>
-            <id>maven-releases</id>
-            <url>http://repourl/repository/maven-releases/</url>
+            <id>vaishnavi-repo</id>
+            <url>https://vaishu-442042547565.d.codeartifact.us-east-1.amazonaws.com/maven/vaishnavi-repo/</url>
         </repository>
-    </distributionManagement>     -->
+    </distributionManagement>    
 	
 	<dependencies>
 		<dependency>
